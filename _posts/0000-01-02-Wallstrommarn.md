@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Antar att detta är mitt första kodningsprojekt?
+It's big brain time..
 Use the left arrow to go back!
